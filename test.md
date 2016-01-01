@@ -8,3 +8,5 @@ hello
 **You are here!**
 
 {{ site.tagline }}
+
+{{ tagline }}
