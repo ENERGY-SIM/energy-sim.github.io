@@ -31,7 +31,7 @@
 <section class="page-header">
         <h1 class="project-name">{{ site.title }}</h1>
     {% if page.title %}<h2 class="project-tagline">{{ page.title }}</h2>{% endif %}
-        <a href="/2016/" class="btn">ENERGY-SIM '16</a>
+        <a href="{{ site.url }}" class="btn">ENERGY-SIM '16</a>
     
     
     {% if page.active == "submission" %}
@@ -39,14 +39,24 @@
     {% else %}
         <a href="/submission/" class="btn">Paper Submission</a>
     {% endif %}
-
-    <a href="/importantdates/" class="btn">Important Dates</a>
-    <a href="/committees/" class="btn">Committees</a>
-        <!--<a href="/2016/" class="btn">ENERGY-SIM 2016</a>-->
-        <!--    <a href="/journal/" class="btn">Program</a>-->
-        <!--    <a href="/pastworkshops/" class="btn">Past Workshops</a>-->
+    
+    {% if page.active == "importantdates" %}
+        <a href="/importantdates/" class="btn" id="active">Important Dates</a>
+    {% else %}
+        <a href="/importantdates/" class="btn">Important Dates</a>
+    {% endif %}
+    
+    {% if page.active == "committees" %}
+        <a href="/committees/" class="btn" id="active">Committees</a>
+    {% else %}
+        <a href="/committees/" class="btn">Committees</a>
+    {% endif %}
+    
+    {% if page.active == "journal" %}
+        <a href="/journal/" class="btn" id="active"><i class="fa fa-book"></i>&nbsp;Elsevier Journal SI</a>
+    {% else %}
         <a href="/journal/" class="btn"><i class="fa fa-book"></i>&nbsp;Elsevier Journal SI</a>
-        <!--<a href="/2016/" class="btn"><i class="fa fa-twitter fa-lg"></i></a>-->
-        <!--<a href="/2016/" class="btn"><i class="fa fa-linkedin fa-lg"></i></a>-->
-        <a href="mailto:energysimworkshop@gmail.com" class="btn"><i class="fa fa-envelope-o"></i>&nbsp;Contact Us</a>
-    </section>
+    {% endif %}
+    
+    <a href="mailto:energysimworkshop@gmail.com" class="btn"><i class="fa fa-envelope-o"></i>&nbsp;Contact Us</a>
+</section>
