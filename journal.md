@@ -40,6 +40,9 @@ For this special issue, we are seeking original work that is focused on addressi
     - 	Energy-aware simulation/modelling packages under development from the community
         
 
+### Paper Submission
+Further information about paper submision can be found on the Elsevier website [here](www.journals.elsevier.com/sustainable-computing/call-for-papers/special-issue-on-energy-aware-simulation-and-modelling-energ/).
+
 ### Important Dates
 - <strong>Manuscript due date:</strong> June 30, 2016
 - <strong>Acceptance due date:</strong> September 30, 2016
