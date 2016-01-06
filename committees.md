@@ -11,5 +11,6 @@ Programme Chair - Matthew Forshaw, Newcastle University, UK
 
 ## Programme Committee
 Erol Gelenbe, Imperial College London, UK<br/>
+Mehrgan Mostowfi, University of Northern Colorado, USA<br/>
 Omer Rana, Cardiff University, UK<br/>
 Nigel Thomas, Newcastle University, UK
