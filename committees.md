@@ -6,8 +6,8 @@ active: committees
 ---
 
 ## Organising Committee
-General Chair: Stephen McGough, Durham University, UK<br/>
-Programme Chair: Matthew Forshaw, Newcastle University, UK
+**General Chair**: Stephen McGough, Durham University, UK<br/>
+**Programme Chair**: Matthew Forshaw, Newcastle University, UK
 
 ## Programme Committee
 Erol Gelenbe, Imperial College London, UK<br/>
