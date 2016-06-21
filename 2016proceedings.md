@@ -11,19 +11,13 @@ permalink: /2016/proceedings
 
 #DLheader {
 	}
-#DLheader h1 {
-	font-size:16px;	
-}
 	
 #DLcontent {
-	 font-size:12px;
 	}
 #DLcontent h2 {
-	 font-size:14px;
 	 margin-bottom:5px;
 	}
 #DLcontent h3 {
-	 font-size:12px;
 	 padding-left:20px;
 	 margin-bottom:0px;
 	}
