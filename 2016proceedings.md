@@ -1,10 +1,9 @@
+---
+layout: page
+title: 2nd International Workshop on Energy-aware Simulation (ENERGY-SIM’16)
+permalink: /2016/proceedings
+---
 
-
-
-<!doctype html>
-<head>
-<META http-equiv="Content-Style-Type" content="text/css">
-<title>ENERGY-SIM '16- Proceedings of the 2nd International Workshop on Energy-Aware Simulation</title>
 <STYLE type="text/css">
 #DLtoc {
 	font: normal 12px/1.5em Arial, Helvetica, sans-serif;
@@ -79,10 +78,6 @@
 	}		
    
 </STYLE>
-</head>
-
-
-<body>
 
 <div id="DLtoc">
 	<div id="DLheader">
@@ -172,6 +167,3 @@
         
     </div>
 </div>
-
-</body>
-</html>
