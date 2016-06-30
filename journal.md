@@ -43,6 +43,8 @@ For this special issue, we are seeking original work that is focused on addressi
 ### Paper Submission
 Further information about paper submission can be found on the Elsevier website [here](http://www.journals.elsevier.com/sustainable-computing/call-for-papers/special-issue-on-energy-aware-simulation-and-modelling-energ/).
 
+__Important:__ The Elsevier submission system is currently experiencing an issue, whereby the ENERGY-SIM SI is not listed. We are working with Elsevier to resolve this issue. In the meantime, please instead email your submission to both stephen.mcgough@durham.ac.uk and matthew.forshaw@ncl.ac.uk.
+
 ### Important Dates
 - <strong>Manuscript due date:</strong> June 30, 2016
 - <strong>Acceptance due date:</strong> September 30, 2016
