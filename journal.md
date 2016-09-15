@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Special Issue on Energy-Aware Simulation and Modelling (ENERGY-SIM)
-permalink: /journal/
+permalink: /
+redirect_from: "/journal/"
 active: journal
 ---
 
