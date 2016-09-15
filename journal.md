@@ -46,7 +46,6 @@ Further information about paper submission can be found on the Elsevier website 
 __Important:__ The Elsevier submission system is currently experiencing an issue, whereby the ENERGY-SIM SI is not listed. We are working with Elsevier to resolve this issue. In the meantime, please instead email your submission to both stephen.mcgough@durham.ac.uk and matthew.forshaw@ncl.ac.uk.
 
 ### Important Dates
-- <strong>Manuscript due date:</strong> June 30, 2016
-- <strong>Acceptance due date:</strong> September 30, 2016
-- <strong>Tentative publication schedule:</strong> Last quarter of 2016
-
+- <strong>Manuscript due date:</strong> Friday 11th November 2016
+- <strong>Acceptance due date:</strong> Friday 6th January 2017
+- <strong>Tentative publication schedule:</strong> End of first quarter 2017.
