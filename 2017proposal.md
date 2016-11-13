@@ -1,17 +1,17 @@
 ---
 layout: page
 title: 3rd International Workshop on Energy-aware Simulation (ENERGY-SIM’17)
-permalink: /2017proposal/
+permalink: /2017/
 ---
 
 ## 3<sup>rd</sup> International Workshop on Energy-aware Simulation (ENERGY-SIM’17)
-<div style="text-align:center"><strong>22<sup>nd</sup>-25<sup>th</sup> April 2017 | L'Aquila, Italy</strong></div>
+<div style="text-align:center"><strong>27<sup>th</sup> April 2017 | L'Aquila, Italy</strong></div>
 
-<!--Co-located with the [ACM e-Energy 2016](http://conferences.sigcomm.org/eenergy/2016), the 7<sup>th</sup> ACM International Conference on Future Energy Systems.-->
+Co-located with the [ACM/SPEC ICPE 2017](https://icpe2017.spec.org/), the 8<sup>th</sup> ACM/SPEC International Conference on Performance Engineering
 
-<img align="none" height="80" src="https://gallery.mailchimp.com/e142f1706795c82a6cbbf2142/images/3bef7981-6b4f-45d7-a03d-447e95e6c72b.png" style="width: 80px; height: 80px; margin: 0px;" width="80px" />
+<!--<img align="none" height="80" src="https://gallery.mailchimp.com/e142f1706795c82a6cbbf2142/images/3bef7981-6b4f-45d7-a03d-447e95e6c72b.png" style="width: 80px; height: 80px; margin: 0px;" width="80px" />
 <p><strong>Sponsored by ACM (Pending)</strong></p>
-<p><strong>In-cooperation with IEEE IEEE Technical Committee on Green Communications & Computing (TCGCC) (Pending)</strong></p>
+<p><strong>In-cooperation with IEEE IEEE Technical Committee on Green Communications & Computing (TCGCC) (Pending)</strong></p>-->
 
 <!--The 2<sup>nd</sup> International Workshop on Energy-aware Simulation (ENERGY-SIM’17) will be co-located with the ACM International Conference on Future Energy Systems ([ACM e-Energy 2016](http://conferences.sigcomm.org/eenergy/2016)).-->
 
@@ -70,9 +70,9 @@ Nigel Thomas, Newcastle University, UK<br/>
 Ananta Tiwari, San Diego Supercomputer Center, USA
 
 ### Important Dates
-- <strong>Abstract deadline:</strong> TBD
-- <strong>Paper deadline:</strong> TBD
-- <strong>Author notification:</strong> TBD
-- <strong>Camera ready deadline:</strong> TBD
-- <strong>Workshop:</strong> TBD
+- <strong>Abstract deadline:</strong> Tuesday, 3rd January 2017
+- <strong>Paper deadline:</strong> Tuesday, 10th January 2017
+- <strong>Author notification:</strong> Friday, 10th February 2017
+- <strong>Camera ready deadline:</strong> Sunday, 19th February 2017
+- <strong>Workshop:</strong> Thursday, 27th April 2017
 
