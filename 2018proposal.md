@@ -55,13 +55,12 @@ Papers describing significant research contributions of theoretical and/or pract
 
 The papers that are accepted and presented at the workshop will be published by ACM and disseminated through the ACM Digital Library. It is intended that the best papers will be put forward for a Journal special edition post workshop.
 
-Workshop papers are expected to use the "sig-alternate-05-2015.cls" template for the ACM
-format that is available at the following link: http://www.acm.org/publications/proceedings-template-16dec2016
+<!--Workshop papers are expected to use the "sig-alternate-05-2015.cls" template for the ACM format that is available at the following link: <a href="http://www.acm.org/publications/proceedings-template-16dec2016 -->
 
 Submission will be made via EasyChair: <a href="tbc" target="_blank">tbc</a>
 
 ### Organising Committee
-General Co-Chair - Stephen McGough, Newcastle University, UK 
+General Co-Chair - Stephen McGough, Newcastle University, UK<br/> 
 General Co-Chair - Matthew Forshaw, Newcastle University, UK
 
 ### Programme Committee
