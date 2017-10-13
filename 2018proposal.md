@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3rd International Workshop on Energy-aware Simulation (ENERGY-SIM’18)
+title: 4th International Workshop on Energy-aware Simulation (ENERGY-SIM’18)
 permalink: /2018proposal
 active: 2018
 ---
