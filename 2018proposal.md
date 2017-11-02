@@ -61,16 +61,11 @@ Submission will be made via EasyChair: <a href="tbc" target="_blank">tbc</a>
 
 ### Organising Committee
 General Co-Chair - Stephen McGough, Newcastle University, UK<br/> 
-General Co-Chair - Matthew Forshaw, Newcastle University, UK
+General Co-Chair - Matthew Forshaw, Newcastle University, UK<br/>
+Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
 
 ### Programme Committee
-Erol Gelenbe, Imperial College London, UK<br/>
-Helen Karatza, Aristotle University of Thessaloniki, Greece<br/>
-Ibad Kureshi, Durham University, UK<br/>
-Mehrgan Mostowfi, University of Northern Colorado, USA<br/>
-Omer Rana, Cardiff University, UK<br/>
-Nigel Thomas, Newcastle University, UK<br/>
-Ananta Tiwari, San Diego Supercomputer Center, USA
+TBC
 
 ### Important Dates
 - <strong>Abstract deadline:</strong> TBC
