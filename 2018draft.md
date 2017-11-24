@@ -68,7 +68,7 @@ Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
 TBC
 
 ### Important Dates
-- <strong>Abstract deadline:</strong> TBC
+- <strong>Abstract deadline:</strong> Provisonal: 22nd December 2017
 - <strong>Paper deadline:</strong> TBC
 - <strong>Author notification:</strong> TBC
 - <strong>Camera ready deadline:</strong> TBC
