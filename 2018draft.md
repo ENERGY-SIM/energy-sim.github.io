@@ -69,7 +69,7 @@ TBC
 
 ### Important Dates
 - <strong>Abstract deadline:</strong> Provisonal: 22nd December 2017
-- <strong>Paper deadline:</strong> TBC
-- <strong>Author notification:</strong> TBC
-- <strong>Camera ready deadline:</strong> TBC
-- <strong>Workshop:</strong> TBC
+- <strong>Paper deadline:</strong> 7th January 2018
+- <strong>Author notification:</strong> 4th February 2018
+- <strong>Camera ready deadline:</strong> 18th February 2018
+<!--- <strong>Workshop:</strong> TBC-->
