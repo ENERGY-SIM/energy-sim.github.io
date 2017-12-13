@@ -68,9 +68,6 @@ General Co-Chair - Stephen McGough, Newcastle University, UK<br/>
 General Co-Chair - Matthew Forshaw, Newcastle University, UK<br/>
 Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
 
-### Programme Committee
-TBC
-
 ### Important Dates
 - <strong>Abstract deadline:</strong> 8th January 2018
 - <strong>Paper deadline:</strong> 15th January 2018
