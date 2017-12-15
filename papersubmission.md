@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2<sup>nd</sup> International Workshop on Energy-aware Simulation (ENERGY-SIM’16)
+title: 4th International Workshop on Energy-aware Simulation (ENERGY-SIM’18)
 permalink: /submission/
 active: submission
 ---
