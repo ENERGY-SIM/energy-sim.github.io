@@ -70,7 +70,7 @@ Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
 
 ### Important Dates
 - <strong>Abstract deadline:</strong> 8th January 2018
-- <strong>Paper deadline:</strong> 15th January 2018
+- <strong>Paper deadline:</strong> <s>15th January 2018</s> <strong>24th January 2018</strong> (Final Extension)
 - <strong>Author notification:</strong> 4th February 2018
 - <strong>Camera ready deadline:</strong> 18th February 2018
 <!--- <strong>Workshop:</strong> TBC-->
