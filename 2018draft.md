@@ -68,6 +68,15 @@ General Co-Chair - Stephen McGough, Newcastle University, UK<br/>
 General Co-Chair - Matthew Forshaw, Newcastle University, UK<br/>
 Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
 
+### Programme Committee
+Lorenzo De Carli, University of Wisconsin-Madison, USA<br/>
+Erol Gelenbe, Imperial College London, UK<br/>
+Ibad Kureshi, Inleco Systems<br/>
+Mehrgan Mostowfi, University of Northern Colorado, USA<br/>
+Omer Rana, Cardiff University, UK<br/>
+Khalil Shafie, University of Northern Colorado, USA<br/>
+Nigel Thomas, Newcastle University, UK
+
 ### Important Dates
 - <strong>Abstract deadline:</strong> 8th January 2018
 - <strong>Paper deadline:</strong> <s>15th January 2018</s> <strong>24th January 2018</strong> (Final Extension)
