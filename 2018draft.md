@@ -48,6 +48,17 @@ Specific topics of interest to ENERGY-SIM 2018 include, but are not limited to, 
 - Energy-aware simulation/modelling packages and tools
     - Energy-aware simulation/modelling packages under development from the community
 
+
+# Keynote Announced
+<div style="float:right;padding:20px"><img src="http://energy-sim.org/boudewijn.png" style="width:180px"/></div>
+<emph>"Zero-energy Internet-of-Things"</emph>
+
+<a href="http://agent.csd.auth.gr/~karatza/" target="_blank"><strong>Boudewijn Haverkort</strong></a>, University of Twente
+
+## Speaker Bio
+Boudewijn Haverkort is full professor for <a href="https://www.utwente.nl/en/eemcs/dacs/">Design and Analysis of Communication Systems</a> at the University of Twente, in the faculty for <a href="https://www.utwente.nl/en/eemcs/">Electrical Engineering, Mathematics and Computer Science (EEMCS)</a>. His work focuses on quantitative methods and techniques to support the design of computer and communication systems, these days often addressed as cyber-physical systems. In all of his work, a quantitative assessment of system properties is a key-driver; in the past, he focused mostly on performance issues, but these days more and more on dependability and energy-efficiency. Boudewijn has published close to 200 papers in international conferences and journals, and has lectured at various universities. Of the last 10 years, he has been heavily involved in public-private partnerships; he was scientific director of the Embedded Systems Institute in Eindhoven (2009-2013) and since 2016 is chairman of the Dutch research and innovation program Commit2Data, on big data and its applications. Since May 2017, Boudewijn is also chairman of the department of computer science at the University of Twente, and, as such, member of the management team of the faculty EEMCS.
+
+
 ### Submission Guidance
 Papers will be accepted in one of two formats:
 
