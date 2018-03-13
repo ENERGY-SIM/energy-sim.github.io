@@ -126,7 +126,7 @@ Nigel Thomas, Newcastle University, UK
     <td class="c8" colspan="1" rowspan="1">
     <p class="c1"><strong>Keynote Session:</strong><br/>
      <emph>"Zero-energy Internet-of-Things"</emph>, Boudewijn Haverkort
-    
+     </p>
    </td>
   </tr>
     <tr class="c10">
