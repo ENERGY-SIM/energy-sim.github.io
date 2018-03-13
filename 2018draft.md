@@ -14,8 +14,6 @@ active: 2018
 
 Co-located with the [ACM/SPEC ICPE 2018](https://icpe2018.spec.org/), the 9<sup>th</sup> ACM/SPEC International Conference on Performance Engineering
 
-<a href="#programme" class="btn"><i class="fa fa-newspaper-o"></i>&nbsp;Technical Programme Now Announced</a>
-
 <!--<img align="none" height="80" src="https://gallery.mailchimp.com/e142f1706795c82a6cbbf2142/images/3bef7981-6b4f-45d7-a03d-447e95e6c72b.png" style="width: 80px; height: 80px; margin: 0px;" width="80px" />
 <p><strong>Sponsored by ACM (Pending)</strong></p>
 <p><strong>In-cooperation with IEEE IEEE Technical Committee on Green Communications & Computing (TCGCC) (Pending)</strong></p>-->
@@ -59,46 +57,6 @@ Specific topics of interest to ENERGY-SIM 2018 include, but are not limited to, 
 
 ## Speaker Bio
 Boudewijn Haverkort is full professor for <a href="https://www.utwente.nl/en/eemcs/dacs/">Design and Analysis of Communication Systems</a> at the University of Twente, in the faculty for <a href="https://www.utwente.nl/en/eemcs/">Electrical Engineering, Mathematics and Computer Science (EEMCS)</a>. His work focuses on quantitative methods and techniques to support the design of computer and communication systems, these days often addressed as cyber-physical systems. In all of his work, a quantitative assessment of system properties is a key-driver; in the past, he focused mostly on performance issues, but these days more and more on dependability and energy-efficiency. Boudewijn has published close to 200 papers in international conferences and journals, and has lectured at various universities. Of the last 10 years, he has been heavily involved in public-private partnerships; he was scientific director of the Embedded Systems Institute in Eindhoven (2009-2013) and since 2016 is chairman of the Dutch research and innovation program Commit2Data, on big data and its applications. Since May 2017, Boudewijn is also chairman of the department of computer science at the University of Twente, and, as such, member of the management team of the faculty EEMCS.
-
-
-
-### Submission Guidance
-Papers will be accepted in one of two formats:
-
-- Short work in progress/position papers, up to 4 pages in length
-
-- Full papers, up to 6 pages in length
-
-Papers describing significant research contributions of theoretical and/or practical nature are being solicited for submission. Authors are invited to submit original, high-quality papers presenting new research related to energy-aware simulations.
-
-The papers that are accepted and presented at the workshop will be published by ACM and disseminated through the ACM Digital Library. It is intended that the best papers will be put forward for a Journal special edition post workshop.
-
-<!--Workshop papers are expected to use the "sig-alternate-05-2015.cls" template for the ACM format that is available at the following link: <a href="http://www.acm.org/publications/proceedings-template-16dec2016 -->
-
-Submission will be made via EasyChair: <a href="https://easychair.org/conferences/?conf=energysim18" target="_blank">https://easychair.org/conferences/?conf=energysim18</a>
-
-### Organising Committee
-General Co-Chair - Stephen McGough, Newcastle University, UK<br/> 
-General Co-Chair - Matthew Forshaw, Newcastle University, UK<br/>
-Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
-
-### Programme Committee
-Lorenzo De Carli, University of Wisconsin-Madison, USA<br/>
-Erol Gelenbe, Imperial College London, UK<br/>
-Ibad Kureshi, Inleco Systems<br/>
-Mehrgan Mostowfi, University of Northern Colorado, USA<br/>
-Omer Rana, Cardiff University, UK<br/>
-Khalil Shafie, University of Northern Colorado, USA<br/>
-Nigel Thomas, Newcastle University, UK
-
-### Important Dates
-- <strong>Abstract deadline:</strong> 8th January 2018
-- <strong>Paper deadline:</strong> <s>15th January 2018</s> <strong>24th January 2018</strong> (Final Extension)
-- <strong>Author notification:</strong> 4th February 2018
-- <strong>Camera ready deadline:</strong> 18th February 2018
-<!--- <strong>Workshop:</strong> TBC-->
-
-
 
 # Technical Programme
 <a name="programme"></a>
@@ -155,3 +113,40 @@ Nigel Thomas, Newcastle University, UK
     <em>Andrew Stephen Mcgough and Matthew Forshaw</em><br/><br/>
     Energy-driven reconfiguration of applications for Wireless Sensor Networks<br/>
     <em>Vittorio Cortellessa, Antinisca Di Marco, Daniele Di Pompeo, Francesco Gallo, Stefano Pace, Luigi Pomante and Walter Tiberti</em><br/><br/>Combining Energy Saving Techniques in Data Centres using Model-Based Analysis<br/><em>Björn F. Postema, Tobias Van Damme, Claudio De Persis, Pietro Tesi and Boudewijn Haverkort</em></p></td></tr></tbody></table>
+
+
+### Submission Guidance
+Papers will be accepted in one of two formats:
+
+- Short work in progress/position papers, up to 4 pages in length
+
+- Full papers, up to 6 pages in length
+
+Papers describing significant research contributions of theoretical and/or practical nature are being solicited for submission. Authors are invited to submit original, high-quality papers presenting new research related to energy-aware simulations.
+
+The papers that are accepted and presented at the workshop will be published by ACM and disseminated through the ACM Digital Library. It is intended that the best papers will be put forward for a Journal special edition post workshop.
+
+<!--Workshop papers are expected to use the "sig-alternate-05-2015.cls" template for the ACM format that is available at the following link: <a href="http://www.acm.org/publications/proceedings-template-16dec2016 -->
+
+Submission will be made via EasyChair: <a href="https://easychair.org/conferences/?conf=energysim18" target="_blank">https://easychair.org/conferences/?conf=energysim18</a>
+
+### Organising Committee
+General Co-Chair - Stephen McGough, Newcastle University, UK<br/> 
+General Co-Chair - Matthew Forshaw, Newcastle University, UK<br/>
+Publicity Chair - Mehrgan Mostowfi, University of Northern Colorado, USA
+
+### Programme Committee
+Lorenzo De Carli, University of Wisconsin-Madison, USA<br/>
+Erol Gelenbe, Imperial College London, UK<br/>
+Ibad Kureshi, Inleco Systems<br/>
+Mehrgan Mostowfi, University of Northern Colorado, USA<br/>
+Omer Rana, Cardiff University, UK<br/>
+Khalil Shafie, University of Northern Colorado, USA<br/>
+Nigel Thomas, Newcastle University, UK
+
+### Important Dates
+- <strong>Abstract deadline:</strong> 8th January 2018
+- <strong>Paper deadline:</strong> <s>15th January 2018</s> <strong>24th January 2018</strong> (Final Extension)
+- <strong>Author notification:</strong> 4th February 2018
+- <strong>Camera ready deadline:</strong> 18th February 2018
+<!--- <strong>Workshop:</strong> TBC-->
