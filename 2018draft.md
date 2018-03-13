@@ -111,7 +111,7 @@ Boudewijn Haverkort is full professor for <a href="https://www.utwente.nl/en/eem
     Reduction of Energy Consumption for Replicated tasks in a Volunteer Computing Environment<br/>
     <em>Andrew Stephen Mcgough and Matthew Forshaw</em><br/><br/>
     Energy-driven reconfiguration of applications for Wireless Sensor Networks<br/>
-    <em>Vittorio Cortellessa, Antinisca Di Marco, Daniele Di Pompeo, Francesco Gallo, Stefano Pace, Luigi Pomante and Walter Tiberti</em><br/><br/>Combining Energy Saving Techniques in Data Centres using Model-Based Analysis<br/><em>Björn F. Postema, Tobias Van Damme, Claudio De Persis, Pietro Tesi and Boudewijn Haverkort</em>
+    <em>Vittorio Cortellessa, Antinisca Di Marco, Daniele Di Pompeo, Francesco Gallo, Stefano Pace, Luigi Pomante and Walter Tiberti</em><br/><br/>Combining Energy Saving Techniques in Data Centres using Model-Based Analysis<br/><em>Björn F. Postema, Tobias Van Damme, Claudio De Persis, Pietro Tesi and Boudewijn Haverkort</em></p>
 
 </td></tr></tbody></table>
 
