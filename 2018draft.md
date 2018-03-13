@@ -58,6 +58,63 @@ Specific topics of interest to ENERGY-SIM 2018 include, but are not limited to, 
 ## Speaker Bio
 Boudewijn Haverkort is full professor for <a href="https://www.utwente.nl/en/eemcs/dacs/">Design and Analysis of Communication Systems</a> at the University of Twente, in the faculty for <a href="https://www.utwente.nl/en/eemcs/">Electrical Engineering, Mathematics and Computer Science (EEMCS)</a>. His work focuses on quantitative methods and techniques to support the design of computer and communication systems, these days often addressed as cyber-physical systems. In all of his work, a quantitative assessment of system properties is a key-driver; in the past, he focused mostly on performance issues, but these days more and more on dependability and energy-efficiency. Boudewijn has published close to 200 papers in international conferences and journals, and has lectured at various universities. Of the last 10 years, he has been heavily involved in public-private partnerships; he was scientific director of the Embedded Systems Institute in Eindhoven (2009-2013) and since 2016 is chairman of the Dutch research and innovation program Commit2Data, on big data and its applications. Since May 2017, Boudewijn is also chairman of the department of computer science at the University of Twente, and, as such, member of the management team of the faculty EEMCS.
 
+# Technical Programme
+<table class="c11">
+ <thead>
+  <tr class="c10">
+   <td class="c2" colspan="1" rowspan="1">
+    <p class="c1"><span class="c4">Time</span></p>
+   </td>
+   <td class="c8" colspan="1" rowspan="1">
+    <p class="c1"><span class="c4">Item</span></p>
+   </td>
+  </tr> 
+  </thead>
+   <tbody>
+  <tr class="c10">
+   <td class="c2" colspan="1" rowspan="1">
+    <p class="c1"><span class="c4">13:30-13:40</span></p>
+   </td>
+   <td class="c8" colspan="1" rowspan="1">
+    <p class="c1">Opening and Welcome Remarks</p>
+   </td>
+   </tr>
+   <tr class="c10">
+    <td class="c2" colspan="1" rowspan="1">
+     <p class="c1"><span class="c4">13:40-14:30</span></p>
+    </td>
+    <td class="c8" colspan="1" rowspan="1">
+    <p class="c1"><strong>Keynote Session:</strong><br/>
+     <emph>"Zero-energy Internet-of-Things"</emph>, Boudewijn Haverkort
+    
+   </td>
+  </tr>
+    <tr class="c10">
+     <td class="c2 c13" colspan="1" rowspan="1">
+      <p class="c1">14:30-15:00</p>
+     </td>
+     <td class="c8 c13" colspan="1" rowspan="1"><p class="c1"><strong>Paper Session 1</strong><br/><span class="c4">Modular Energy Modeling using Energy/Utility<br/>
+    <em>Marcus Hähnel and Till Smejkal</em></span></p></td>
+    </tr>
+    <tr class="c10">
+     <td class="c2 c13" colspan="1" rowspan="1">
+      <p class="c1">15:00-15:30</p>
+     </td>
+     <td class="c8 c13" colspan="1" rowspan="1"><p class="c1"><span class="c4">Coffee Break</span></p></td>
+    </tr>
+   <tr class="c10">
+    <td class="c2" colspan="1" rowspan="1">
+     <p class="c1"><span class="c4">15:30-17:00</span></p>
+    </td>
+    <td class="c8" colspan="1" rowspan="1">
+    <p class="c1"><strong>Paper Session 2</strong><br/>
+    Reduction of Energy Consumption for Replicated tasks in a Volunteer Computing Environment<br/>
+    <em>Andrew Stephen Mcgough and Matthew Forshaw</em><br/><br/>
+    Energy-driven reconfiguration of applications for Wireless Sensor Networks<br/>
+    <em>Vittorio Cortellessa, Antinisca Di Marco, Daniele Di Pompeo, Francesco Gallo, Stefano Pace, Luigi Pomante and Walter Tiberti</em><br/><br/>Combining Energy Saving Techniques in Data Centres using Model-Based Analysis<br/><em>Björn F. Postema, Tobias Van Damme, Claudio De Persis, Pietro Tesi and Boudewijn Haverkort</em>
+
+</td></tr></tbody></table>
+
 
 ### Submission Guidance
 Papers will be accepted in one of two formats:
