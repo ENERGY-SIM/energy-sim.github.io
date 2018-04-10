@@ -14,6 +14,7 @@ active: 2018
 
 Co-located with the [ACM/SPEC ICPE 2018](https://icpe2018.spec.org/), the 9<sup>th</sup> ACM/SPEC International Conference on Performance Engineering
 
+<strong>ENERGY-SIM will take place in Conference Room 1</strong>
 <!--<img align="none" height="80" src="https://gallery.mailchimp.com/e142f1706795c82a6cbbf2142/images/3bef7981-6b4f-45d7-a03d-447e95e6c72b.png" style="width: 80px; height: 80px; margin: 0px;" width="80px" />
 <p><strong>Sponsored by ACM (Pending)</strong></p>
 <p><strong>In-cooperation with IEEE IEEE Technical Committee on Green Communications & Computing (TCGCC) (Pending)</strong></p>-->
