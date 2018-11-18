@@ -1,0 +1,24 @@
+5th International Workshop on Energy-aware Simulation (ENERGY-SIM’19)
+
+http://energy-sim.org/2019
+
+ENERGY-SIM 2019 seeks original work that is focused on addressing new research and development challenges, developing new techniques, and providing case studies, related to energy-aware simulation and modelling. 
+
+IMPORTANT DATES
+Abstract deadline:      14th December 2018
+Paper deadline:         21st December 2018
+Author notification:    21st January 2019
+Author registration:    31st March 2019
+
+SUBMISSION
+Papers describing significant research contributions of theoretical and/or practical nature are being solicited for submission. Authors are invited to submit original, high-quality papers presenting new research related to energy-aware simulations. 
+
+The papers that are accepted and presented at the workshop will be published by ACM and disseminated through the ACM Digital Library. It is intended that the best papers will be put forward for a Journal special edition post-workshop.
+
+Submission will be made via EasyChair: https://easychair.org/conferences/?conf=energysim19
+
+
+ORGANIZERS (CHAIRS):
+General Co-Chair - Stephen McGough, Newcastle University, UK
+General Co-Chair - Matthew Forshaw, Newcastle University, UK
+General Co-Chair - Srikanth B. Yoginath, Oak Ridge National Laboratory
