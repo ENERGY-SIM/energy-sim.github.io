@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4th International Workshop on Energy-aware Simulation (ENERGY-SIM’18)
+title: 5th International Workshop on Energy-aware Simulation (ENERGY-SIM’19)
 permalink: /submission/
 active: submission
 ---
@@ -21,4 +21,4 @@ Papers will be assessed based on originality, correctness, relevance, and qualit
 
 The papers that are accepted and presented at the workshop will be published by ACM and disseminated through the ACM Digital Library. It is intended that the best papers will be put forward for a Journal special edition post workshop.
 
-Submission will be made via EasyChair: <a href="https://easychair.org/conferences/?conf=energysim18" target="_blank">https://easychair.org/conferences/?conf=energysim18</a>
+Submission will be made via EasyChair: <a href="https://easychair.org/conferences/?conf=energysim19" target="_blank">https://easychair.org/conferences/?conf=energysim19</a>
