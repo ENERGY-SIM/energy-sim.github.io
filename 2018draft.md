@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 4th International Workshop on Energy-aware Simulation (ENERGY-SIM’18)
-permalink: /
 redirect_from: 
 - /2018/
 - /2018draft/
