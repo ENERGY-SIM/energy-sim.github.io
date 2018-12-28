@@ -10,4 +10,4 @@ active: importantdates
 - <strong>Paper deadline:</strong> <strike>21st December 2018</strike> <strong>11th January 2018 (Firm Deadline)</strong>
 - <strong>Author notification:</strong> 25th January 2019
 - <strong>Author registration:</strong> 31st March 2019
-- <strong>Camera ready deadline:</strong> TBC
+- <strong>Camera ready deadline:</strong> 15th February 2019
