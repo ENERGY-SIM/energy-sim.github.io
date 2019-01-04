@@ -50,6 +50,12 @@
         <a href="/importantdates/" class="btn">Important Dates</a>
     {% endif %}
     
+    {% if page.active == "previouseditions" %}
+        <a href="/previouseditions/" class="btn" id="active">Previous Workshops</a>
+    {% else %}
+        <a href="/previouseditions/" class="btn">Previous Workshops</a>
+    {% endif %}
+    
     {% if page.active == "committees" %}
         <!--<a href="/committees/" class="btn" id="active">Committees</a>-->
     {% else %}
